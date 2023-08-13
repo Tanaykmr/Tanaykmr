@@ -1,6 +1,11 @@
 # Hi Everyone👋, Tanay here
 
-![Visitor Count](https://profile-counter.glitch.me/Tanaykmr/count.svg)
+<table>
+  <tr>
+    <td>You are visitor</td>
+    <td><img src="https://profile-counter.glitch.me/ryanlanciaux/count.svg" alt="" /></td>
+  </tr>
+</table>
 <p align="left"><img src="https://i.ibb.co/3444rD7/My-Image.jpg" alt="My image" width="150" height="200"/> </a>
 </p>
 
