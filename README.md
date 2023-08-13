@@ -1,4 +1,4 @@
-# Hi Everyone👋, Tanay here
+<h1 align="center">Hi Everyone👋, Tanay here</h1>
 
 <table>
   <tr>
@@ -6,9 +6,6 @@
     <td><img src="https://profile-counter.glitch.me/Tanaykmr/count.svg" alt="" /></td>
   </tr>
 </table>
-<p align="left"><img src="https://i.ibb.co/3444rD7/My-Image.jpg" alt="My image" width="150" height="200"/> </a>
-</p>
-
 
 
 ## Here is some info on me
