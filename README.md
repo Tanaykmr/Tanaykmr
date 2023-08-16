@@ -54,5 +54,8 @@
 
 
 ## 🏆 My Github Stats:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Tanaykmr&show_icons=true&locale=en&layout=compact" alt="Tanaykmr" />
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaykmr&show_icons=true&locale=en&layout=compact" height="190" alt="Tanaykmr"/>
+</p>
+
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanaykmr&" alt="tanaykmr"/>
 </p>
