@@ -19,7 +19,7 @@
 
 ## Find me at:
 
-<p align="center"> <a href="https://twitter.com/TanayKmr" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.png" alt="Twitter" width="80" height="80"/> </a>
+<p align="center"> <a href="https://twitter.com/TanayKmr" target="_blank" rel="noreferrer"> <img src="/images/X github.png" alt="Twitter" width="80" height="80"/> </a>
 </p>
 
 
