@@ -42,6 +42,14 @@
   <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a>
 </p>
 
+
+# Connect with me
+<p align="left">
+<a href="https://twitter.com/tanaykmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanaykmr" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanaykmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanaykmr" height="30" width="40" /></a>
+</p>
+
+
 # 🏆 My Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanaykmr&show_icons=true&locale=en&layout=compact" height="190" alt="Tanaykmr"/>
 </p>
