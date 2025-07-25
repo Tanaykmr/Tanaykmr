@@ -1,10 +1,10 @@
 <h1 align="center">Hi Everyone👋, Tanay here</h1>
 
 <table>
-  <tr>
-    <td>You are visitor</td>
-    <td><img src="https://profile-counter.glitch.me/Tanaykmr/count.svg" alt="" /></td>
-  </tr>
+<!--   <tr> -->
+<!--     <td>You are visitor</td> -->
+<!--     <td><img src="https://profile-counter.glitch.me/Tanaykmr/count.svg" alt="" /></td> -->
+<!--   </tr> -->
 </table>
 
 
